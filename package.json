@@ -52,6 +52,7 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "add": "^2.0.6",
     "axios": "^0.19.2",
     "express": "^4.17.1",
